@@ -1,1 +1,0 @@
-# Registering for the Competition
