@@ -3,6 +3,10 @@ ARIAC Documentation
 
 Welcome to ARIAC 2023!
 
+.. image:: images/environment.png
+  :width: 400
+  :alt: ARIAC environment for 2023
+
 .. Hidden TOCs
 
 .. toctree::
